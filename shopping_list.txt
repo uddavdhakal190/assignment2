@@ -1,0 +1,5 @@
+kitchen
+clothes
+shoes
+tarkari
+
